@@ -171,7 +171,7 @@ class MyntraScraper:
 # Usage example
 if __name__ == "__main__":
     #url = "https://www.myntra.com/men-casual-shirts"
-    url = "https://www.myntra.com/men-tshirts"
+    url = "https://www.myntra.com/men-sweatshirts"
     
     # Scrolling parameters - ADJUST THESE FOR TRIAL AND ERROR
     SCROLL_STEP = 500       # Pixels to scroll each time (300-800 works well)
